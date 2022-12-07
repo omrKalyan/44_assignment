@@ -1,0 +1,18 @@
+Assignment 1
+<later>
+..2
+...3
+..4
+(1) asdfljafdsj
+ainers:
+  - image: nginx:alpine
+    name: web-server1
+    volumeMounts:
+    - name: html
+      mountPath: /usr/share/nginx/html
+      readOnly: true
+    ports:
+    - containerPort: 80
+      protocol
+      (2)aklsdjflasdjf
+      
